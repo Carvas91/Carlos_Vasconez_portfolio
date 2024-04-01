@@ -1,8 +1,7 @@
-"""
 # AutoClean-Downloads
 
 ## Overview
-The `AutoClean-Downloads` project was initiated from a simple realization during a routine check in PowerShell: my Downloads folder was cluttered with an overwhelming number of files. Manually sorting and deleting these files seemed like a daunting task, so I turned to Python and automation to streamline the process.
+The `DownloadsDeClutter` project was initiated from a simple realization during a routine check in PowerShell: my Downloads folder was cluttered with an overwhelming number of files. Manually sorting and deleting these files seemed like a daunting task, so I turned to Python and automation to streamline the process.
 
 ## Motivation
 The main goal was to create an efficient, automated system for cleaning up the Downloads folder without the need for manual intervention. This was not only to save time but also to implement a solution that could be reused in the future, either on a scheduled basis or as needed.
@@ -25,4 +24,3 @@ The main goal was to create an efficient, automated system for cleaning up the D
 
 ## Conclusion
 `AutoClean-Downloads` serves as a testament to the power of automation and data analysis. By combining Python scripting with strategic use of data analysis tools, I was able to significantly declutter my Downloads folder without the tedium of manual file management. This project not only streamlined my immediate cleanup task but also provided a reusable tool for future file management needs.
-"""
