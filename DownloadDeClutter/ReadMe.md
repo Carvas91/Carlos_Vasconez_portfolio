@@ -23,4 +23,4 @@ The main goal was to create an efficient, automated system for cleaning up the D
 - **Google Colab:** An online platform that provided a more flexible environment for data analysis and manipulation.
 
 ## Conclusion
-`AutoClean-Downloads` serves as a testament to the power of automation and data analysis. By combining Python scripting with strategic use of data analysis tools, I was able to significantly declutter my Downloads folder without the tedium of manual file management. This project not only streamlined my immediate cleanup task but also provided a reusable tool for future file management needs.
+`DownloadsDeClutter` serves as a testament to the power of automation and data analysis. By combining Python scripting with strategic use of data analysis tools, I was able to significantly declutter my Downloads folder without the tedium of manual file management. This project not only streamlined my immediate cleanup task but also provided a reusable tool for future file management needs.
