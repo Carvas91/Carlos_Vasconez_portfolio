@@ -1,4 +1,4 @@
-# AutoClean-Downloads
+# DownloadsDeClutter March 31, 2024
 
 ## Overview
 The `DownloadsDeClutter` project was initiated from a simple realization during a routine check in PowerShell: my Downloads folder was cluttered with an overwhelming number of files. Manually sorting and deleting these files seemed like a daunting task, so I turned to Python and automation to streamline the process.
