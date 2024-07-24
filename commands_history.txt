@@ -1,0 +1,109 @@
+    1  cd Desktop
+    2  ls
+    3  pwd
+    4  cd /c/Users/carva/OneDrive/Desktop
+    5  cd /c/Users/carva/OneDrive/Desktop
+    6  git clone https://github.com/solegalli/feature-engineering-for-machine-learning.git
+    7  git version
+    8  git config --global --last
+    9  git config --global --list
+   10  git config
+   11  clear
+   12  git config --global
+   13  git config --global --list
+   14  clear
+   15  git config --global user.name "carvas91"
+   16  git config --global --list
+   17  git config --global user.email "carvas91@hotmail.com"
+   18  git config --global --list
+   19  git config --global init.defaultBranch main
+   20  git config --global --list
+   21  clear
+   22  cd Desktop
+   23  clear
+   24  pwd
+   25  [200~cd /c/Users/carva/Desktop
+   26  cd /c/Users/carva/Desktop
+   27  cd
+   28  pwd
+   29  ls
+   30  cd OneDrive
+   31  ls
+   32  cd Desktop
+   33  ls
+   34  cd Udemy
+   35  ls
+   36  cd MLOps
+   37  pwd
+   38  clear
+   39  ls
+   40  ls -a
+   41  git init
+   42  exit
+   43  pwd
+   44  ls
+   45  cd OneDrive
+   46  ls
+   47  cd Desktop
+   48  ls
+   49  cd Udemy
+   50  ls
+   51  clear
+   52  git status
+   53  ls
+   54  cd MLOps
+   55  gut status
+   56  git status
+   57  git add file1.py
+   58  git status
+   59  git commit -m "my first commit"
+   60  git log
+   61  git log
+   62  git status
+   63  clear
+   64  git add .
+   65  git status
+   66  git commit -m "v2"
+   67  git log
+   68  git status
+   69  clear
+   70  git branch
+   71  git branch dev
+   72  git branch
+   73  git log
+   74  git branch
+   75  git branch
+   76  git switch dev
+   77  git branch
+   78  git switch main
+   79  git status
+   80  git switch dev
+   81  git status
+   82  git git add .
+   83  git add .
+   84  clear
+   85  git commit -m "v3"
+   86  git log
+   87  git switch main
+   88  git log
+   89  git checkout dev
+   90  clear
+   91  git add. && git commit -m "v4"
+   92  git add . && git commit -m "v4"
+   93  git log
+   94  git switch main
+   95  git merge dev
+   96  git log
+   97  history > commands_history.txt
+   98  history > commands_history.txt
+   99  git remote add origin https://github.com/Carvas91/Carlos_Vasconez_portfolio
+  100  git log
+  101  git add commands_history.txt
+  102  git commit -m "Added commands history"
+  103  git log
+  104  git push -u origin main
+  105  git pull origin main
+  106  git pull origin main
+  107  git push -u origin main
+  108  commands_history.txt
+  109  history > commands_history.txt
