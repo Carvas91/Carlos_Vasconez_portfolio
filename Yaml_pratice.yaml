@@ -1,0 +1,15 @@
+my-course: "MLOps Practice"
+version: 1.0
+price: 299
+is_public: true
+release_date: 2024-07-27
+category:
+ - Cloud
+ - Tools
+ - CICD
+
+contributors: ['Carlos','Ruben','Maitte']
+contributor_details:
+ - name: 'Carlos'
+ - lastname: 'Vasconez'
+ 
